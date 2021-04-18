@@ -3,7 +3,7 @@ internal gpt3 logic handling for metabot
 
 
 <h3>You need to make an empty txt file on the same level called: </h3>
-<h2"bigprompt.txt"</h2>
+<h2>"bigprompt.txt"</h2>
 <br><br>
 Add API key in files:
 <ul>
