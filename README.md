@@ -12,6 +12,6 @@ Add API key in files:
   <li>regularGPT.py</li>
 </ul>
 wherever you see: <br>
-<h1>"openai.api_key = "API-KEY-HERE""</h2>
+<h2>   openai.api_key = "API-KEY-HERE"   </h2>
 run main.py after that.
 
