@@ -1,7 +1,7 @@
 import openai
 import os
 def regularResponse(currentInput):
-    openai.api_key = "sk-y6412Z1ugQzfXGtpeG8tzf18m1Q2IzaLHkWl3wqh"
+    openai.api_key = "API-KEY-HERE"
     start_sequence = "\nOutput:"
     restart_sequence = "\n\nInput: "
 
